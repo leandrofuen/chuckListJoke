@@ -9,8 +9,7 @@ console.log("empezamos")
 
 
 
-/*CREAMOS LAS VARIABLES,PREFERIBLE CREARLAS CON EL MISMO NOMBRE QUE TIENEN EN EL ID DEL HTML PARA NO PERDERSE
- Y CAPTURAMOS LOS BOTONES CON EL "document.getElementByid("nombre del ID")"*/
+
 const fetchJoke= document.getElementById('fetchJoke')
 const jokeList= document.getElementById('jokeList')
 
