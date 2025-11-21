@@ -28,4 +28,6 @@ button:hover {
 }
 
 
-
+ul{
+  list-style: none;
+}
